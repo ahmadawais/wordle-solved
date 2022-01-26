@@ -1,14 +1,19 @@
 {
-  "background": { "scripts": ["background/index.js"] },
-  "content_scripts": [
-    {
-      "js": ["content/index.js"],
-      "matches": [
-        "https://www.powerlanguage.co.uk/wordle/*",
-        "http://www.powerlanguage.co.uk/wordle/*",
-        "https://www.powerlanguage.co.uk/wordle/"
-      ]
-    }
-  ],
-  "browser_action": { "default_popup": "pages/popup/index.html" }
+	"background": {"scripts": ["background/index.js"]},
+	"content_scripts": [
+		{
+			"js": ["content/index.js"],
+			"matches": [
+				"https://www.powerlanguage.co.uk/wordle/*",
+				"http://www.powerlanguage.co.uk/wordle/*",
+				"https://www.powerlanguage.co.uk/wordle/"
+			]
+		}
+	],
+	"browser_action": {"default_popup": "pages/popup/index.html"},
+	"icons": {
+		"16": "images/32.png",
+		"48": "images/192.png",
+		"128": "images/192.png"
+	}
 }

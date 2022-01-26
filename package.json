@@ -1,56 +1,57 @@
 {
-  "name": "chrome-extension-wordle-solution",
-  "description": "Chrome extension to solve Wordle puzzles",
-  "version": "0.0.1",
-  "private": true,
-  "keywords": [
-    "chrome-extension",
-    "wordle",
-    "ahmad awais"
-  ],
-  "homepage": "https://twitter.com/MrAhmadAwais/",
-  "repository": "AhmadAwais/wordle-solution",
-  "license": "UNLICENSED",
-  "author": {
-    "name": "Ahmad Awais",
-    "email": "me@AhmadAwais.com",
-    "url": "https://twitter.com/MrAhmadAwais/"
-  },
-  "scripts": {
-    "build": "rollup -c",
-    "release": "cross-env NODE_ENV=production rollup -c",
-    "start": "rollup -c -w",
-    "test": "jest"
-  },
-  "dependencies": {
-    "@types/chrome": "^0.0.127",
-    "@types/firefox-webext-browser": "^82.0.0",
-    "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
-    "prettier": "^2.2.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "webextension-polyfill": "^0.7.0"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
-    "@babel/preset-react": "^7.12.10",
-    "@rollup/plugin-babel": "^5.2.2",
-    "@rollup/plugin-commonjs": "^17.0.0",
-    "@rollup/plugin-node-resolve": "^11.0.1",
-    "@rollup/plugin-replace": "^2.4.1",
-    "@types/jest": "^26.0.19",
-    "cross-env": "^7.0.3",
-    "eslint": "^7.16.0",
-    "eslint-plugin-react": "^7.21.5",
-    "jest": "^26.6.3",
-    "jest-chrome": "^0.7.0",
-    "rollup": "^2.40.0",
-    "rollup-plugin-chrome-extension": "^3.5.6",
-    "rollup-plugin-empty-dir": "^1.0.4",
-    "rollup-plugin-zip": "^1.0.1",
-    "styled-jsx": "^3.3.2"
-  }
+	"name": "wordle-solved",
+	"description": "Chrome extension to solve Wordle puzzles",
+	"version": "0.0.1",
+	"private": true,
+	"keywords": [
+		"chrome-extension",
+		"wordle",
+		"wordle solved",
+		"ahmad awais"
+	],
+	"homepage": "https://twitter.com/MrAhmadAwais/",
+	"repository": "AhmadAwais/wordle-solved",
+	"license": "UNLICENSED",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais/"
+	},
+	"scripts": {
+		"build": "rollup -c",
+		"release": "cross-env NODE_ENV=production rollup -c",
+		"start": "rollup -c -w",
+		"test": "jest"
+	},
+	"dependencies": {
+		"@types/chrome": "^0.0.127",
+		"@types/firefox-webext-browser": "^82.0.0",
+		"@types/react": "^17.0.0",
+		"@types/react-dom": "^17.0.0",
+		"prettier": "^2.2.1",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1",
+		"webextension-polyfill": "^0.7.0"
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.12.10",
+		"@babel/core": "^7.12.10",
+		"@babel/preset-env": "^7.12.11",
+		"@babel/preset-react": "^7.12.10",
+		"@rollup/plugin-babel": "^5.2.2",
+		"@rollup/plugin-commonjs": "^17.0.0",
+		"@rollup/plugin-node-resolve": "^11.0.1",
+		"@rollup/plugin-replace": "^2.4.1",
+		"@types/jest": "^26.0.19",
+		"cross-env": "^7.0.3",
+		"eslint": "^7.16.0",
+		"eslint-plugin-react": "^7.21.5",
+		"jest": "^26.6.3",
+		"jest-chrome": "^0.7.0",
+		"rollup": "^2.40.0",
+		"rollup-plugin-chrome-extension": "^3.5.6",
+		"rollup-plugin-empty-dir": "^1.0.4",
+		"rollup-plugin-zip": "^1.0.1",
+		"styled-jsx": "^3.3.2"
+	}
 }
