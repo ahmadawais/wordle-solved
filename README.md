@@ -30,13 +30,13 @@
 - **RECOMMENDED**: [Download from Google Chrome Store][c] (Submitted, waiting for approval)
 
 - **OR**: Use the [unpacked version][d]
-  1. Navigate to `chrome://extensions`
-  2. Enable `Developer mode` <small>(top-right corner)</small>
-  3. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
-  4. Download and Select the [`dist`][d] folder from this repo and done
-  5. Click the `W` icon of Wordle Solved extensions to check the guess (**SPOILER**)
-  6. You may also find the today's guess already filled (**SPOILER**)
-
+1. [Click here to Download][d] the unpacked Chrome extension
+1. Open Chrome and open this URL `chrome://extensions`
+1. Enable `Developer mode` <small>(top-right corner)</small>
+1. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
+1. Select the unzipped extension folder from the Step 1 — All done!
+1. Click the `W` icon of `Wordle Solved` extension to check the guess (**SPOILER**)
+1. You may also find the today's guess already filled (**SPOILER**)
 
 <br>
 
@@ -87,4 +87,4 @@ Or you can back me by checking out my super fun video course. After building hun
 [c]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=wordle-solved
 [n]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=wordle-solved
 [repo]: https://github.com/AhmadAwais/wordle-solved
-[d]: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fahmadawais%2Fwordle-solved%2Ftree%2Fmain%2Fdist
+[d]: https://raw.githubusercontent.com/ahmadawais/wordle-solved/main/wordle-solved-ahmadawais.zip
