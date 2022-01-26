@@ -18,7 +18,7 @@
 
 - 📦 Chrome extension that solves Wordle puzzles for you
 - 🤯 Automatic prediction of the upcoming word tomorrow
-- 👨‍🏫 Learn how to create automation with JavaScript with Awais [NodeCLI.com][n] automation course
+- 👨‍🏫 Learn automate anything: [NodeCLI.com][n] automation with JavaScript
 
 <br>
 
