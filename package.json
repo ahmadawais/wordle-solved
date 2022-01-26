@@ -1,26 +1,21 @@
 {
-  "name": "@extend-chrome/js-react-boilerplate",
-  "version": "1.0.0",
+  "name": "chrome-extension-wordle-solution",
+  "description": "Chrome extension to solve Wordle puzzles",
+  "version": "0.0.1",
   "private": true,
-  "description": "Chrome extension boilerplate with JavaScript and React",
   "keywords": [
     "chrome-extension",
-    "web-extension",
-    "javascript",
-    "react",
-    "rollup",
-    "boilerplate"
+    "wordle",
+    "ahmad awais"
   ],
-  "homepage": "https://github.com/extend-chrome/js-react-boilerplate#readme",
-  "bugs": {
-    "url": "https://github.com/extend-chrome/js-react-boilerplate/issues"
+  "homepage": "https://twitter.com/MrAhmadAwais/",
+  "repository": "AhmadAwais/wordle-solution",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Ahmad Awais",
+    "email": "me@AhmadAwais.com",
+    "url": "https://twitter.com/MrAhmadAwais/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/extend-chrome/js-react-boilerplate.git"
-  },
-  "license": "MIT",
-  "author": "Jack Steam<jacksteamdev@gmail.com>",
   "scripts": {
     "build": "rollup -c",
     "release": "cross-env NODE_ENV=production rollup -c",
