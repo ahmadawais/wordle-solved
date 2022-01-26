@@ -29,11 +29,11 @@
 
 - **RECOMMENDED**: [Download from Google Chrome Store][c] (Submitted, waiting for approval)
 
-- **OR**: Use the [unpacked version](./dist)
+- **OR**: Use the [unpacked version][d]
   1. Navigate to `chrome://extensions`
   2. Enable `Developer mode` <small>(top-right corner)</small>
   3. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
-  4. Select the [`dist`](./dist) folder from this repo and done
+  4. Download and Select the [`dist`][d] folder from this repo and done
   5. Click the `W` icon of Wordle Solved extensions to check the guess (**SPOILER**)
   6. You may also find the today's guess already filled (**SPOILER**)
 
