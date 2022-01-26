@@ -29833,7 +29833,7 @@ const App = () => {
     className: "tile green"
   }, "D")), /*#__PURE__*/react.createElement("p", {
     className: "animate text"
-  }, "Daily solutions to your wordle problems by", ' '), /*#__PURE__*/react.createElement("h3", {
+  }, "Daily solutions to your wordle problems!"), /*#__PURE__*/react.createElement("h3", {
     className: "animate by"
   }, "By", ' ', /*#__PURE__*/react.createElement("a", {
     href: "https://twitter.com/MrAhmadAwais/",
