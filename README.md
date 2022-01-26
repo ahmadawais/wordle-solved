@@ -45,7 +45,7 @@
 ## License & Conduct
 
 - UNLICENSED © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
-- Thank you Josh Wardle for the excellent game
+- Thank you, Josh Wardle, for the excellent game
 - [Code of Conduct](code-of-conduct.md)
 
 <br>
@@ -68,7 +68,7 @@
 
 ## Sponsor
 
-Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.
+Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I'm doing, then consider backing me. I'm in this for the long run—an open-source developer advocate.
 
 [![Support Open-Source Work](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
 
@@ -76,7 +76,7 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 ### [How to build a Node CLI?][n]
 
-Or you can back me by checking out my super fun video course. After building hundreds of developer automation tools used by millions of developers, I am teaching exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript based CLI (Command Line Interface) apps & npm packages. Automate the grunt work, do more in less time, impress your manager, make more salary, and help the community. I'm sharing it all in this step-by-step 100-videos course. [Node CLI Automation without wasting a thousand hours][n] →
+Or you can back me by checking out my super fun video course. After building hundreds of developer automation tools used by millions of developers, I am teaching exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript-based CLI (Command Line Interface) apps & npm packages. Automate the grunt work, do more in less time, impress your manager, make more salary, and help the community. I'm sharing it all in this step-by-step 100-videos course. [Node CLI Automation without wasting a thousand hours][n] →
 
 [![NodeCLI.com](https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg)][n]
 
