@@ -17,7 +17,7 @@
 # wordle-solved
 
 - 📦 Chrome extension that solves Wordle puzzles for you
-- 🤯 Automatic prediction of the up-coming word tomorrow
+- 🤯 Automatic prediction of the upcoming word tomorrow
 - 👨‍🏫 Learn how to create automation with JavaScript with Awais [NodeCLI.com][n] automation course
 
 <br>
@@ -87,3 +87,4 @@ Or you can back me by checking out my super fun video course. After building hun
 [c]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=wordle-solved
 [n]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=wordle-solved
 [repo]: https://github.com/AhmadAwais/wordle-solved
+[d]: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fahmadawais%2Fwordle-solved%2Ftree%2Fmain%2Fdist
