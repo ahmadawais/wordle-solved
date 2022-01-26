@@ -26,10 +26,9 @@
 
 ## Install
 
+<!-- - **RECOMMENDED**: [Download from Google Chrome Store][c] (Submitted, waiting for approval) -->
+<!-- - **OR**: Use the [unpacked version][d] -->
 
-- **RECOMMENDED**: [Download from Google Chrome Store][c] (Submitted, waiting for approval)
-
-- **OR**: Use the [unpacked version][d]
 1. [Click here to Download][d] the unpacked Chrome extension
 1. Open Chrome and open this URL `chrome://extensions`
 1. Enable `Developer mode` <small>(top-right corner)</small>
