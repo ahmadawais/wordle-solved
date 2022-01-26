@@ -2365,7 +2365,7 @@ const App = () => {
 			</h1>
 
 			<p className="animate text">
-				Daily solutions to your wordle problems by{' '}
+				Daily solutions to your wordle problems!
 			</p>
 
 			<h3 className="animate by">
