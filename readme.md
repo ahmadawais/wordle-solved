@@ -33,9 +33,9 @@
 1. Open Chrome and open this URL `chrome://extensions`
 1. Enable `Developer mode` <small>(top-right corner)</small>
 1. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
-1. Select the unzipped extension folder from the Step 1 — All done!
+1. Select the unzipped extension folder from Step 1 — All done!
 1. Click the `W` icon of `Wordle Solved` extension to check the guess (**SPOILER**)
-1. You may also find the today's guess already filled (**SPOILER**)
+1. You may also find today's guess already filled (**SPOILER**)
 
 <br>
 
