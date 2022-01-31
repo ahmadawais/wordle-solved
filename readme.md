@@ -18,7 +18,7 @@
 
 - 📦 Chrome extension that solves Wordle puzzles for you
 - 🤯 Automatic prediction of the upcoming word tomorrow
-- 👨‍🏫 Learn automate anything: [NodeCLI.com][n] automation with JavaScript
+- 👨‍🏫 Learn to automate anything: [NodeCLI.com][n] automation with JavaScript
 
 <br>
 
