@@ -37,6 +37,8 @@
 1. Click the `W` icon of `Wordle Solved` extension to check the guess (**SPOILER**)
 1. You may also find today's guess already filled (**SPOILER**)
 
+[![⚙️](https://raw.githubusercontent.com/ahmadawais/wordle-solved-cli/main/.github/wordle-solved-chrome-extension.gif)][repo]
+
 <br>
 
 [![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)][repo]
