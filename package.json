@@ -1,7 +1,7 @@
 {
 	"name": "wordle-solved",
 	"description": "Chrome extension to solve Wordle puzzles",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"keywords": [
 		"chrome-extension",
 		"wordle",
